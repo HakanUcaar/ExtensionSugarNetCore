@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>ExtensionSugarNetCore</id>
+    <version>1.0.3</version>
+    <title>ExtensionSugar.NetCore</title>
+    <authors>Hakan Uçar</authors>
+    <owners>Hakan Uçar</owners>
+    <licenseUrl>https://licenses.nuget.org/MIT</licenseUrl>
+    <projectUrl>https://github.com/HakanUcaar/ExtensionSugarNetCore</projectUrl>
+    <iconUrl>https://github.com/HakanUcaar/ExtensionSugar/blob/master/Icon/ExtSugar.png</iconUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Yardımcı küçük kod şekerlemeleri</description>
+    <releaseNotes>String, Type ve Generic için yeni şekerler eklendi</releaseNotes>
+    <copyright>Copyright 2019</copyright>
+    <tags>Extension LambdaExtension Useful Core</tags>
+  </metadata>
+  <files>
+	<file src="bin\Debug\netcoreapp3.1\ExtensionSugar.NetCore.dll" target="lib"></file>
+  </files>
+</package>
