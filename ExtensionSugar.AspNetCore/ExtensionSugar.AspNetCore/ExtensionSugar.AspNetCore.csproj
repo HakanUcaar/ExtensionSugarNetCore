@@ -4,12 +4,12 @@
     <TargetFrameworks>netcoreapp3.1;netcoreapp3.0</TargetFrameworks>
     <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
     <PackageRequireLicenseAcceptance>false</PackageRequireLicenseAcceptance>
-    <Version>1.0.4</Version>
+    <Version>1.0.5</Version>
     <PackageProjectUrl>https://github.com/HakanUcaar/ExtensionSugarNetCore</PackageProjectUrl>
     <PackageIconUrl>https://github.com/HakanUcaar/ExtensionSugar/blob/master/Icon/ExtSugar.png</PackageIconUrl>
-    <PackageTags>Extension LambdaExtension Useful Core</PackageTags>
+    <PackageTags>Extension LambdaExtension Useful AspNetCore</PackageTags>
     <Copyright>Copyright 2019</Copyright>
-    <PackageReleaseNotes>String, Type ve Generic için yeni şekerler eklendi</PackageReleaseNotes>
+    <PackageReleaseNotes>Reflaction , Resource extensionları eklendi. string ve type extensionlara yenileri eklendi</PackageReleaseNotes>
     <Description>Yardımcı küçük kod şekerlemeleri</Description>
   </PropertyGroup>
 
